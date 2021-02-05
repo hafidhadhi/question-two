@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="question-two:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/question_two_jar</output-path>
+    <root id="root">
+      <element id="archive" name="question-two.jar">
+        <element id="module-output" name="question-two" />
+      </element>
+      <element id="library" level="project" name="json-20201115" />
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>
